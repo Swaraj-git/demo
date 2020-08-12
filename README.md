@@ -31,4 +31,10 @@ Steps followed to set local repo, sync local repo with remote and add the local 
      git add -A
   Note :- -A for all files
   
- 7. 
+7. Command to commit changes in local repo
+  => git commit -m "commit message"  
+  or to commit all file changes
+     git commit -a -m "commit message"
+	 
+8. Command to check the log for all commits
+  => git log	 
